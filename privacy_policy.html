@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #1a73e8;
+            color: white;
+            padding: 15px 20px;
+            text-align: center;
+        }
+        header a {
+            color: white;
+            text-decoration: underline;
+            margin-left: 10px;
+        }
+        h1 {
+            text-align: center;
+            margin-top: 40px;
+        }
+        #content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 800px;
+            margin: 20px auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            white-space: pre-wrap; /* preserve line breaks from txt */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        EATT2 Support
+        <a href="index.html">Home</a>
+    </header>
+
+    <h1>Privacy Policy</h1>
+    <div id="content">Loading...</div>
+
+    <script>
+        fetch('privacy_policy.txt')
+            .then(response => {
+                if (!response.ok) throw new Error("Could not load privacy policy.");
+                return response.text();
+            })
+            .then(text => {
+                document.getElementById('content').innerText = text;
+            })
+            .catch(error => {
+                document.getElementById('content').innerText = "Error loading privacy policy: " + error;
+            });
+    </script>
+</body>
+</html>
