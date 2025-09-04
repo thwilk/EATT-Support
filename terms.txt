@@ -1,0 +1,199 @@
+
+# TERMS OF SERVICE
+
+**EFFECTIVE DATE:** September 3rd, 2025
+
+These Terms of Service ("Terms") govern your use of EATT ("App," "we," "us," or "our"). By accessing, downloading, or using the App, you agree to be legally bound by these Terms. **IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE APP.**
+
+## 1. ACCEPTANCE AND BINDING AGREEMENT
+
+By using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms and our Privacy Policy. These Terms constitute a legally binding agreement between you and us.
+
+## 2. ELIGIBILITY AND ACCOUNT REQUIREMENTS
+
+* **Age Requirement:** You must be at least 13 years old to use this App
+* **Legal Capacity:** You must have the legal authority to enter into this agreement
+* **Account Accuracy:** You must provide accurate, current, and complete information during registration
+* **Account Security:** You are solely responsible for maintaining the confidentiality of your account credentials
+* **Account Activity:** You are fully responsible for all activities that occur under your account, whether authorized or not
+* **Single Account:** You may only maintain one account per person
+
+## 3. USER-GENERATED CONTENT AND POSTING RULES
+
+### 3.1 Content You Post
+By posting photos, captions, or other content ("User Content") to the App, you represent and warrant that:
+
+* You own all rights to the content or have proper authorization to post it
+* Your content does not infringe any third-party rights (copyright, trademark, privacy, publicity, etc.)
+* Your content complies with all applicable laws and these Terms
+* You are solely responsible for all consequences of posting your content
+
+### 3.2 Prohibited Content
+You agree NOT to post content that:
+
+* Is illegal, harmful, threatening, abusive, defamatory, vulgar, obscene, or hateful
+* Contains nudity, sexually explicit material, or inappropriate content
+* Infringes intellectual property rights or violates privacy rights
+* Contains spam, advertising, or commercial content without authorization
+* Includes personal information of others without consent
+* Contains viruses, malware, or other harmful code
+* Impersonates others or misrepresents your identity or affiliation
+* Promotes illegal activities, violence, or discrimination
+
+### 3.3 Content License and Rights
+**BY POSTING CONTENT, YOU GRANT US:**
+
+* A worldwide, royalty-free, non-exclusive, transferable, sublicensable license to use, display, reproduce, modify, distribute, and store your content
+* The right to use your content for promotional, marketing, and commercial purposes
+* The right to remove, modify, or disable access to your content at our sole discretion
+* These rights survive even if you delete your account or the specific content
+
+## 4. ACCEPTABLE USE POLICY
+
+### 4.1 Permitted Use
+You may use the App only for:
+* Personal, non-commercial purposes (unless otherwise authorized)
+* Lawful purposes in compliance with all applicable laws
+* Purposes consistent with the App's intended functionality
+
+### 4.2 Prohibited Activities
+You agree NOT to:
+
+* Reverse engineer, decompile, or attempt to extract source code
+* Use automated tools (bots, scrapers, etc.) to access or use the App
+* Attempt to gain unauthorized access to any part of the App or other users' accounts
+* Interfere with or disrupt the App's functionality or servers
+* Upload viruses or other malicious code
+* Violate any applicable laws or regulations
+* Harass, stalk, or harm other users
+* Create multiple accounts to circumvent restrictions
+* Use the App to collect personal information about other users
+* Engage in any commercial activity without our written permission
+
+## 5. CONTENT MODERATION AND ENFORCEMENT
+
+* **No Obligation:** We have no obligation to monitor, edit, or remove user content
+* **Right to Remove:** We reserve the right to remove any content at our sole discretion without notice
+* **Account Actions:** We may suspend, restrict, or terminate accounts for violations
+* **No Liability:** We are not liable for any content posted by users or for our content moderation decisions
+
+## 6. INTELLECTUAL PROPERTY
+
+* **Our Rights:** All App content, features, and functionality are owned by us and protected by intellectual property laws
+* **Trademarks:** Our name, logo, and trademarks are our property
+* **User Rights:** Subject to these Terms, we grant you a limited, non-transferable license to use the App
+* **DMCA:** We comply with the Digital Millennium Copyright Act and will remove infringing content
+
+## 7. COMPREHENSIVE DISCLAIMERS
+
+**THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND.**
+
+**WE DISCLAIM ALL WARRANTIES, INCLUDING:**
+* MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT
+* That the App will be uninterrupted, error-free, or secure
+* That user content is accurate, appropriate, or lawful
+* That the App will meet your requirements or expectations
+* Any warranties arising from course of dealing or usage of trade
+
+## 8. EXTENSIVE LIMITATION OF LIABILITY
+
+**TO THE FULLEST EXTENT PERMITTED BY LAW:**
+
+### 8.1 No Liability for Damages
+**WE ARE NOT LIABLE FOR ANY DAMAGES, INCLUDING:**
+* Direct, indirect, incidental, consequential, or punitive damages
+* Loss of profits, data, use, goodwill, or other intangible losses
+* Damages resulting from user content or conduct of other users
+* Security breaches, data loss, or unauthorized access
+* App downtime, errors, or technical failures
+* Third-party actions or content
+* Personal injury or property damage
+
+### 8.2 Maximum Liability
+**IF LIABILITY IS FOUND, OUR TOTAL LIABILITY SHALL NOT EXCEED:**
+* $10 USD, OR
+* The amount you paid us in the 12 months preceding the claim,
+* WHICHEVER IS LESS
+
+### 8.3 Basis of the Bargain
+These limitations are a fundamental basis of our agreement and will apply even if any limited remedy fails its essential purpose.
+
+## 9. INDEMNIFICATION
+
+**You agree to defend, indemnify, and hold us harmless from all claims, damages, losses, costs, and expenses (including reasonable attorney fees) arising from:**
+* Your use of the App
+* Your violation of these Terms or applicable laws
+* Your content or any content posted from your account
+* Your violation of any third-party rights
+* Any claims related to your account activity
+
+## 10. TERMINATION
+
+### 10.1 Your Right to Terminate
+You may stop using the App and delete your account at any time.
+
+### 10.2 Our Right to Terminate
+**We may, at our sole discretion and without notice:**
+* Suspend or terminate your account and access
+* Remove your content
+* Take any other action we deem appropriate
+
+**Grounds for termination include:**
+* Violation of these Terms
+* Illegal activity
+* Harmful or inappropriate behavior
+* Any reason or no reason at all
+
+### 10.3 Effect of Termination
+Upon termination:
+* Your right to use the App immediately ceases
+* We may delete your account and content
+* Provisions regarding liability, indemnification, and intellectual property survive
+
+## 11. DISPUTE RESOLUTION
+
+### 11.1 Governing Law
+These Terms are governed by the laws of [YOUR STATE/COUNTRY], without regard to conflict of law principles.
+
+### 11.2 Jurisdiction and Venue
+Any legal action must be brought in the courts of [YOUR JURISDICTION]. You consent to personal jurisdiction and venue in these courts.
+
+### 11.3 Class Action Waiver
+**YOU WAIVE ANY RIGHT TO PARTICIPATE IN CLASS ACTIONS OR REPRESENTATIVE PROCEEDINGS.**
+
+### 11.4 Jury Trial Waiver
+**YOU WAIVE ANY RIGHT TO TRIAL BY JURY.**
+
+## 12. GENERAL PROVISIONS
+
+### 12.1 Updates to Terms
+* We may modify these Terms at any time without prior notice
+* Changes are effective immediately upon posting
+* Continued use constitutes acceptance of modified Terms
+* You should review Terms regularly for changes
+
+### 12.2 Severability
+If any provision is found unenforceable, the remaining provisions remain in full force.
+
+### 12.3 Entire Agreement
+These Terms and our Privacy Policy constitute the entire agreement between us.
+
+### 12.4 No Waiver
+Our failure to enforce any provision doesn't waive our right to enforce it later.
+
+### 12.5 Assignment
+We may assign these Terms without notice. You may not assign your rights under these Terms.
+
+### 12.6 Force Majeure
+We are not liable for delays or failures due to circumstances beyond our reasonable control.
+
+## 13. CONTACT INFORMATION
+
+For questions about these Terms, contact us at:
+twilk808@gmail.com
+
+---
+
+**BY USING THIS APP, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS OF SERVICE.**
+
+**Last Updated:** September 3rd, 2025
