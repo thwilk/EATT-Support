@@ -1,1 +1,113 @@
-Hello
+# PRIVACY POLICY
+
+**EFFECTIVE DATE:** September 3rd 2025
+
+This Privacy Policy explains how EATT ("we," "us," or "our") collects, uses, and protects your information. By using the app, you agree to all terms described below and acknowledge that you have read and understood this policy in its entirety.
+
+## 1. INFORMATION WE COLLECT
+
+We may collect the following information when you use the app:
+
+* **Account Information:** Email, name, username, profile information, and any other data you provide during registration
+* **User-Generated Content:** Photos, images, captions, comments, and any other content you upload, post, or share through the app
+* **Authentication Data:** Via Firebase Authentication or similar third-party services
+* **Usage Data:** App interactions, feature usage, session duration, crash reports, and performance metrics
+* **Device Information:** Device type, operating system, IP address, browser type, and unique device identifiers
+* **Location Data:** If you grant permission, we may collect precise or approximate location information
+* **Communications:** Any messages, feedback, or support requests you send to us
+
+## 2. HOW WE USE INFORMATION
+
+We use collected information to:
+
+* Create, maintain, and authenticate user accounts
+* Display and distribute your posted content (photos and captions) to other users
+* Provide all app features and functionality
+* Analyze usage patterns and improve the app
+* Communicate with you about the app, updates, or support issues
+* Detect, prevent, and address fraud, abuse, or security issues
+* Comply with legal obligations
+* Enforce our Terms of Service
+
+## 3. SHARING AND DISCLOSURE OF INFORMATION
+
+**Important:** By posting content to the app, you understand it may be viewed by other users. We do not sell your personal information, but we may share information in the following cases:
+
+* **Public Content:** Photos and captions you post are visible to other users as intended by the app's functionality
+* **Service Providers:** With trusted third-party vendors (e.g., Firebase, cloud storage, analytics providers) who process data on our behalf
+* **Legal Requirements:** If required by law, regulation, subpoena, court order, or government request
+* **Safety and Rights Protection:** To protect the rights, property, safety, or security of our users, the app, or the public
+* **Business Transfers:** In connection with any merger, sale, or transfer of company assets
+* **With Consent:** When you explicitly authorize us to share specific information
+
+## 4. USER-GENERATED CONTENT
+
+**YOU ACKNOWLEDGE AND AGREE:**
+
+* You are solely responsible for all content you post, including photos and captions
+* You grant us a worldwide, royalty-free, non-exclusive license to use, display, and distribute your content through the app
+* We have no obligation to monitor, edit, or remove user content, but reserve the right to do so at our discretion
+* We are not responsible for content posted by other users
+* You will not post content that violates our Terms of Service or applicable laws
+
+## 5. DATA STORAGE AND SECURITY
+
+We implement reasonable security measures to protect your information. However:
+
+* No method of transmission or storage is 100% secure
+* We cannot guarantee absolute security of your data
+* You use the app at your own risk regarding data security
+* We are not liable for unauthorized access to or disclosure of your information
+
+## 6. YOUR CHOICES AND RIGHTS
+
+* **Account Deletion:** You may request deletion of your account through the app or by contacting us
+* **Content Removal:** You may delete your own posts, subject to technical limitations
+* **Communications:** You may opt out of non-essential communications
+* **Device Settings:** You may modify app permissions through your device settings
+
+**Note:** Some information may remain in our systems for legal, security, or technical reasons even after deletion requests.
+
+## 7. CHILDREN'S PRIVACY
+
+This app is not intended for children under 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided information, we will take steps to delete it.
+
+## 8. INTERNATIONAL DATA TRANSFERS
+
+Your information may be transferred to and processed in countries other than your own, which may have different data protection laws.
+
+## 9. COMPREHENSIVE LIMITATION OF LIABILITY
+
+**TO THE FULLEST EXTENT PERMITTED BY LAW:**
+
+* WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+* WE ARE NOT LIABLE FOR ANY DAMAGES (DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR OTHERWISE) ARISING FROM:
+  - Use of or inability to use the app
+  - User-generated content or conduct of other users
+  - Data breaches, security incidents, or unauthorized access
+  - Loss, corruption, or deletion of your content or data
+  - Any third-party actions or services
+  - Technical failures, downtime, or app malfunctions
+
+* YOUR SOLE REMEDY FOR DISSATISFACTION IS TO STOP USING THE APP
+* OUR TOTAL LIABILITY SHALL NOT EXCEED $10 OR THE AMOUNT YOU PAID US IN THE PAST 12 MONTHS, WHICHEVER IS LESS
+* THESE LIMITATIONS APPLY EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES
+
+## 10. INDEMNIFICATION
+
+You agree to indemnify and hold us harmless from any claims, damages, losses, or expenses (including attorney fees) arising from your use of the app or violation of these terms.
+
+## 11. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy at any time without prior notice. Changes become effective immediately upon posting. Continued use of the app constitutes acceptance of any changes.
+
+## 12. GOVERNING LAW AND DISPUTES
+
+This Privacy Policy is governed by [YOUR STATE/COUNTRY] law. Any disputes will be resolved in [YOUR JURISDICTION] courts, and you waive any right to jury trial or class action participation.
+
+## 13. CONTACT INFORMATION
+
+For questions about this Privacy Policy, contact us at:
+twilk808@gmail.com
+
+**BY USING THIS APP, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THIS PRIVACY POLICY.**
