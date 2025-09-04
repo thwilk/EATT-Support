@@ -3,86 +3,159 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Terms of Service</title>
+<title>EATT2 Support</title>
 <style>
-    body {
-        font-family: Arial, sans-serif;
+    /* reset */
+    * {
+        box-sizing: border-box;
         margin: 0;
+        padding: 0;
+    }
+
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
         line-height: 1.6;
-        background-color: #f0f2f5;
+        color: #333;
+        background-color: #f7f7f7;
     }
 
     header {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        background: linear-gradient(90deg, #4a90e2, #357ABD);
-        color: white;
-        padding: 15px 20px;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        background: linear-gradient(90deg, #d3122a, #a30f23);
+        color: #fff;
+        padding: 25px 20px;
+        text-align: center;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     }
 
-    header .logo {
-        font-weight: bold;
-        font-size: 1.2rem;
+    header h1 {
+        font-size: 2rem;
+        margin-bottom: 10px;
     }
 
     header nav a {
-        color: white;
+        color: #fff;
         text-decoration: none;
-        margin-left: 20px;
-        font-weight: 500;
+        margin: 0 15px;
+        font-weight: 600;
         transition: color 0.3s;
     }
 
     header nav a:hover {
-        color: #ffdd57;
+        color: #ffcc00;
     }
 
-    h1 {
+    main {
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 30px;
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    }
+
+    h2 {
+        color: #d3122a;
+        margin-bottom: 15px;
+    }
+
+    section {
+        margin-bottom: 35px;
+    }
+
+    ul {
+        padding-left: 20px;
+        margin-top: 10px;
+    }
+
+    ul li {
+        margin-bottom: 10px;
+    }
+
+    a {
+        color: #d3122a;
+        text-decoration: underline;
+    }
+
+    a:hover {
+        color: #a30f23;
+    }
+
+    footer {
         text-align: center;
+        padding: 20px;
+        background-color: #eee;
+        font-size: 0.9em;
         margin-top: 40px;
-        color: #333;
     }
 
-    #content {
-        background-color: #fff;
-        padding: 20px;
-        border-radius: 8px;
-        max-width: 800px;
-        margin: 20px auto;
-        box-shadow: 0 0 15px rgba(0,0,0,0.1);
-        white-space: pre-wrap; /* preserve line breaks from txt */
-        color: #333;
+    /* responsive */
+    @media (max-width: 600px) {
+        main {
+            padding: 20px;
+            margin: 20px 10px;
+        }
+
+        header h1 {
+            font-size: 1.5rem;
+        }
+
+        header nav a {
+            display: block;
+            margin: 8px 0;
+        }
     }
 </style>
 </head>
 <body>
 
 <header>
-    <div class="logo">EATT2</div>
+    <h1>EATT2 Support</h1>
     <nav>
-        <a href="privacy.html">Privacy</a>
-        <a href="terms.html">TOS</a>
+        <a href="privacy_policy.html">Privacy Policy</a>
+        <a href="tos.html">Terms of Service</a>
     </nav>
 </header>
 
-<h1>Terms of Service</h1>
-<div id="content">Loading...</div>
+<main>
+    <section>
+        <h2>About EATT2</h2>
+        <p>EATT2 is an accountability tool designed specifically for lacrosse players to track their extra work and commitments. It helps players stay organized, log progress, and remain accountable to their team and coaches. This app is not a performance tracker—it focuses on off-field commitments and personal improvement.</p>
+    </section>
 
-<script>
-fetch('terms.txt')
-    .then(response => {
-        if (!response.ok) throw new Error("Could not load Terms of Service.");
-        return response.text();
-    })
-    .then(text => {
-        document.getElementById('content').innerText = text;
-    })
-    .catch(error => {
-        document.getElementById('content').innerText = "Error loading Terms of Service: " + error;
-    });
-</script>
+    <section>
+        <h2>Key Features</h2>
+        <ul>
+            <li><strong>Player Profiles:</strong> Enter your position, graduation year, and group number.</li>
+            <li><strong>Task Tracking:</strong> Log extra work and submit updates easily.</li>
+            <li><strong>Accountability:</strong> Track your own progress over time.</li>
+            <li><strong>Secure Cloud Sync:</strong> Your submissions are safely stored in the cloud.</li>
+            <li><strong>Simple Interface:</strong> Designed for players, intuitive and clean layout.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Who Should Use EATT2</h2>
+        <p>Our app is intended for lacrosse players who want to stay on top of their extra work and commitments. Coaches and teams can ensure their players remain accountable without tracking on-field performance data.</p>
+    </section>
+
+    <section>
+        <h2>Privacy & Security</h2>
+        <p>All player data is stored securely in the cloud. We do not collect unnecessary personal information, and your progress is only visible to you and your authorized coaches.</p>
+        <p>Please read our <a href="privacy_policy.html">privacy policy</a>.</p>
+    </section>
+
+    <section>
+        <h2>Contact & Support</h2>
+        <p>If you have questions or need assistance, please reach out:</p>
+        <ul>
+            <li>Email: <a href="mailto:twilk808@gmail.com">twilk808@gmail.com</a></li>
+        </ul>
+    </section>
+</main>
+
+<footer>
+    &copy; 2025 EATT2. All rights reserved.
+</footer>
 
 </body>
 </html>
